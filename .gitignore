@@ -6,3 +6,5 @@
 .dev.vars
 .wrangler
 tsconfig.tsbuildinfo
+
+package-lock.json
